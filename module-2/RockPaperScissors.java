@@ -1,7 +1,7 @@
 /*
 Jonathon Walmsley
 08/23/2026
-Module 2.3
+Module 2.2
 Description: Rock-Paper-Scissors game.
 */
 
